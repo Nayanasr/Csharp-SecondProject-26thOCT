@@ -1,0 +1,14 @@
+C:\Users\107012\source\repos\SecondProject-26thoct\SecondProject-26thoct\bin\Debug\netcoreapp3.1\SecondProject-26thoct.exe
+C:\Users\107012\source\repos\SecondProject-26thoct\SecondProject-26thoct\bin\Debug\netcoreapp3.1\SecondProject-26thoct.deps.json
+C:\Users\107012\source\repos\SecondProject-26thoct\SecondProject-26thoct\bin\Debug\netcoreapp3.1\SecondProject-26thoct.runtimeconfig.json
+C:\Users\107012\source\repos\SecondProject-26thoct\SecondProject-26thoct\bin\Debug\netcoreapp3.1\SecondProject-26thoct.runtimeconfig.dev.json
+C:\Users\107012\source\repos\SecondProject-26thoct\SecondProject-26thoct\bin\Debug\netcoreapp3.1\SecondProject-26thoct.dll
+C:\Users\107012\source\repos\SecondProject-26thoct\SecondProject-26thoct\bin\Debug\netcoreapp3.1\SecondProject-26thoct.pdb
+C:\Users\107012\source\repos\SecondProject-26thoct\SecondProject-26thoct\obj\Debug\netcoreapp3.1\SecondProject-26thoct.csproj.AssemblyReference.cache
+C:\Users\107012\source\repos\SecondProject-26thoct\SecondProject-26thoct\obj\Debug\netcoreapp3.1\SecondProject-26thoct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\107012\source\repos\SecondProject-26thoct\SecondProject-26thoct\obj\Debug\netcoreapp3.1\SecondProject-26thoct.AssemblyInfoInputs.cache
+C:\Users\107012\source\repos\SecondProject-26thoct\SecondProject-26thoct\obj\Debug\netcoreapp3.1\SecondProject-26thoct.AssemblyInfo.cs
+C:\Users\107012\source\repos\SecondProject-26thoct\SecondProject-26thoct\obj\Debug\netcoreapp3.1\SecondProject-26thoct.csproj.CoreCompileInputs.cache
+C:\Users\107012\source\repos\SecondProject-26thoct\SecondProject-26thoct\obj\Debug\netcoreapp3.1\SecondProject-26thoct.dll
+C:\Users\107012\source\repos\SecondProject-26thoct\SecondProject-26thoct\obj\Debug\netcoreapp3.1\SecondProject-26thoct.pdb
+C:\Users\107012\source\repos\SecondProject-26thoct\SecondProject-26thoct\obj\Debug\netcoreapp3.1\SecondProject-26thoct.genruntimeconfig.cache
